@@ -699,8 +699,8 @@ def main():
     print("Leinster Ring Counter")
     print("=" * 50)
     
-    # Example: Count up to order 10
-    N = 10
+    # Example: Count up to order 100
+    N = 100
     print(f"\nCounting Leinster rings up to order {N}...")
     
     # Initialize counter
